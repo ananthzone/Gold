@@ -1,1 +1,1 @@
-# Gold
+Electronic Voting Machine 
